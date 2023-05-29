@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Opshori Haque</h1>
+<h1 align="center">Hello 👋, I'm Opshori </h1>
 <h3 align="center">a computer science student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CCqQcD1gtuAAAAAC/studio-ghibli.gif">
 
