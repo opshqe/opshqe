@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Opshori </h1>
-<h3 align="center">a computer science student</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CCqQcD1gtuAAAAAC/studio-ghibli.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opshqe" alt="opshqe" /></a> </p>
