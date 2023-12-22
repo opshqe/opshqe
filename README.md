@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **data mining and literacy**
 
-- 🌱 I’m currently learning **Blending of KNIME with Python and R**
+- 🌱 I’m currently learning **Machine Learning with Python and Stats with R**
 
-- ⚡ Fun fact **I like all of the Ghibli movies**
+- ⚡ Fun fact **I like all of the Ghibli movies with good cup of tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
