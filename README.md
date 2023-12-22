@@ -1,3 +1,5 @@
+### Hello, I'm Opshori!
+
 # 💫 About Me:
 🔭 I’m currently working on data analysis<br>🌱 I’m currently learning Machine Learning with Python and Stats with R<br>⚡ Fun fact: I like all of the Ghibli movies with good cup of tea
 
